@@ -11,7 +11,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 ➡ [Basic Syntax, Conditional Statements and Loops]()
 
 ## Theory Тests
-➡ [TEST - basic syntax]()  
+➡ [TEST - basic syntax]() 
 
 ## Practical Tasks
 
