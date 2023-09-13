@@ -14,7 +14,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 ➡ [TEST - basic syntax](https://github.com/zahariev-webbersof/python-fundamentals-09-2023/blob/main/TEST%20-%20Basic%20Syntax.md) 
 
 ## Practical Tasks
-
+➡ [Draw Patterns](https://github.com/zahariev-webbersof/python-fundamentals-09-2023/blob/main/Practical%20task%20-%20Draw%20Patterns.md)
 
 ## Additional Resources
 
