@@ -1,6 +1,3 @@
-TEST
-
----
 ###### 1. What keyword is used to declare a variable in Python?
 
 - A: VAR
@@ -12,7 +9,10 @@ TEST
 <p>
 
 #### Correct Answer: D: None of the above
----
+
+</p>
+</details>
+
 ###### 2. Which of the following is used to create a comment in Python?
 
 - A: // Comment
@@ -24,7 +24,9 @@ TEST
 <p>
 
 #### Correct Answer: C: # Comment
----
+
+</p>
+</details>
 
 ###### 3. Which loop is used for iterating over a sequence (that is either a list, tuple, dictionary, set, or string) in Python?
 
@@ -38,6 +40,9 @@ TEST
 
 #### Correct Answer: A: for
 
+</p>
+</details>
+
 ###### 4. In Python, how do you write a single-line comment?
 
 - A: /* This is a comment */
@@ -49,6 +54,9 @@ TEST
 <p>
 
 #### Correct Answer: C: # This is a comment
+
+</p>
+</details>
 
 ###### 5. What is the output of the following code?
 
@@ -70,6 +78,8 @@ print(result)
 
 #### Correct Answer: A: 14
 
+</p>
+</details>
 
 ###### 6. Which statement is used to exit a loop prematurely in Python?
 
@@ -83,6 +93,9 @@ print(result)
 
 #### Correct Answer: B: break
 
+</p>
+</details>
+
 ###### 7. What is the correct way to check if two variables,  and , are equal in Python?ab
 
 - A: a == b
@@ -95,6 +108,8 @@ print(result)
 
 #### Correct Answer: A: a == b
 
+</p>
+</details>
 
 ###### 8. In Python, which data type is used to store a sequence of characters?
 
@@ -108,6 +123,8 @@ print(result)
 
 #### Correct Answer: A: str
 
+</p>
+</details>
 
 ###### 9. Which of the following statements is true about Python's ? elif
 
@@ -121,6 +138,8 @@ print(result)
 
 #### Correct Answer: D: It is used for additional conditions in an if-elif-else statement. for
 
+</p>
+</details>
 
 ###### 10. What is the output of the following code?
 
