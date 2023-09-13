@@ -8,7 +8,7 @@
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: D: None of the above
+#### Correct Answer ->  D: None of the above
 
 </p>
 </details>
@@ -23,7 +23,7 @@
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: C: # Comment
+#### Correct Answer -> C: # Comment
 
 </p>
 </details>
@@ -38,7 +38,7 @@
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: A: for
+#### Correct Answer -> A: for
 
 </p>
 </details>
@@ -53,7 +53,7 @@
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: C: # This is a comment
+#### Correct Answer -> C: # This is a comment
 
 </p>
 </details>
@@ -76,7 +76,7 @@ print(result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: A: 14
+#### Correct Answer -> A: 14
 
 </p>
 </details>
@@ -91,7 +91,7 @@ print(result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: B: break
+#### Correct Answer -> B: break
 
 </p>
 </details>
@@ -106,7 +106,7 @@ print(result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: A: a == b
+#### Correct Answer -> A: a == b
 
 </p>
 </details>
@@ -121,7 +121,7 @@ print(result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: A: str
+#### Correct Answer -> A: str
 
 </p>
 </details>
@@ -136,7 +136,7 @@ print(result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: D: It is used for additional conditions in an if-elif-else statement. for
+#### Correct Answer -> D: It is used for additional conditions in an if-elif-else statement. for
 
 </p>
 </details>
@@ -156,4 +156,4 @@ for i in range(5, 0, -1):
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer: C: 5 4 3 2 1
+#### Correct Answer -> C: 5 4 3 2 1
